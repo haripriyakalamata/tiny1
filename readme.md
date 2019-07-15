@@ -18,8 +18,8 @@ render() {
       <View style={styles.container}>
           <ListSearch 
              list_json_url = 'https://api.myjson.com/bins/1cjvh3'                  
-                              //save the json with name myjson & 
-                              //searchable item key as title
+                              /*save the json with name myjson & 
+                              searchable item key as title*/
              displayItems={({ item }) => <Text>{item.title},{item.email}</Text>}
              uniqueKey={({ name }, index) => name} 
           />
