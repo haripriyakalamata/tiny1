@@ -1,6 +1,12 @@
 example
 -------
-import React from 'react';
+
+
+
+<p align="center">
+     <code> 
+   
+   import React from 'react';
 import { Text, View, StyleSheet } from 'react-native';
 import ListSearch from '@haripriya.kalamata/tiny';
 
@@ -32,8 +38,9 @@ const styles = StyleSheet.create({
   },
 
 });
-
-
-<p align="center">
-     <code> priya</code>
+   
+   
+  
+   
+   </code>
 </p>
