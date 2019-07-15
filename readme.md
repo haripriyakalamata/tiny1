@@ -12,7 +12,7 @@ export default class App extends React.Component {
 render() {
     return (
       <View style={styles.container}>
-          <ListSearch 
+       <ListSearch    
              list_json_url = 'https://api.myjson.com/bins/1cjvh3'                  
                               /*save the json with name myjson & 
                               searchable item key as title */
