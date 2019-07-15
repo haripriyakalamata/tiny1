@@ -35,5 +35,5 @@ const styles = StyleSheet.create({
 
 
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+     <h1> priya</h1>
 </p>
