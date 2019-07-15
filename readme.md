@@ -1,6 +1,7 @@
 example
 -------
 <pre>
+
 import React from 'react';
 import { Text, View, StyleSheet } from 'react-native';
 import ListSearch from '@haripriya.kalamata/tiny';
@@ -10,8 +11,9 @@ export default class App extends React.Component {
     super(props)
   }
 render() {
-    return (
-      <View style={styles.container}>
+    return ( 
+    </pre>
+     <View style={styles.container}>
        <ListSearch    
              list_json_url = 'https://api.myjson.com/bins/1cjvh3'                  
                               /*save the json with name myjson & 
@@ -19,7 +21,8 @@ render() {
              displayItems={({ item }) => <Text>{item.title},{item.email}</Text>}
              uniqueKey={({ name }, index) => name} 
           />
-      </View>
+      </View>   
+   <pre>
     );
   }
 }
