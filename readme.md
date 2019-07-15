@@ -35,5 +35,5 @@ const styles = StyleSheet.create({
 
 
 <p align="center">
-     <h1> priya</h1>
+     <code> priya</code>
 </p>
