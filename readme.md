@@ -6,8 +6,9 @@ example
 <p align="center">
      <code> 
    
-   import React from 'react';
-import { Text, View, StyleSheet } from 'react-native';
+   import React from 'react';</code>
+   <code>
+import { Text, View, StyleSheet } from 'react-native'; </code>
 import ListSearch from '@haripriya.kalamata/tiny';
 
 export default class App extends React.Component {
