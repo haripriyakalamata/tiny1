@@ -1,0 +1,22 @@
+{
+  "name": "@haripriya.kalamata/tiny",
+  "version": "5.0.3",
+  "description": "A react native component with search option in list",
+  "main": "src/index.js",
+  "keywords": [
+    "react-native",
+    "search"
+  ],
+  "peerDependencies": {
+    "react": "^16.0.0-beta.5",
+    "react-native": "^0.49.1"
+  },
+  "devDependencies": {
+    "babel-jest": "22.4.4",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "22.4.4",
+    "react-test-renderer": "16.3.1"
+  },
+  "author": "Haripriya <haripriya.kalamata@gmail.com>",
+  "license": "MIT"
+}
