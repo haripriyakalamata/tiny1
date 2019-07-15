@@ -31,7 +31,6 @@ const styles = StyleSheet.create({
     backgroundColor: '#ecf0f1',
     padding: 8,
   },
-
 });
 
 </pre>
